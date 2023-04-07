@@ -89,23 +89,24 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![Screenshot (91)](https://user-images.githubusercontent.com/89703145/230582188-c6a2f7bf-917d-4be7-ad89-8fceedf3d49f.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582188-c6a2f7bf-917d-4be7-ad89-8fceedf3d49f.png" alt="Screenshot" width="150">
 
-![Screenshot (92)](https://user-images.githubusercontent.com/89703145/230582256-3efe098d-0677-40b4-8016-6957e64a7b98.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582256-3efe098d-0677-40b4-8016-6957e64a7b98.png" alt="Screenshot" width="150">
 
-![Screenshot (93)](https://user-images.githubusercontent.com/89703145/230582341-d5ff152e-ead0-4666-ad7e-3c396f4e14b1.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582341-d5ff152e-ead0-4666-ad7e-3c396f4e14b1.png" alt="Screenshot" width="100">
 
-![Screenshot (94)](https://user-images.githubusercontent.com/89703145/230582387-8f68b337-25ea-4a43-9f8b-393ac0aa8d2d.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582387-8f68b337-25ea-4a43-9f8b-393ac0aa8d2d.png" alt="Screenshot" width="350">
 
-![Screenshot (96)](https://user-images.githubusercontent.com/89703145/230582524-4ef9aeac-7431-4836-a4c6-8540fec1d03d.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582524-4ef9aeac-7431-4836-a4c6-8540fec1d03d.png" alt="Screenshot" width="350">
 
-![Screenshot (95)](https://user-images.githubusercontent.com/89703145/230582618-44caf05f-1fac-4162-ae76-6cfd4a2a5a18.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582618-44caf05f-1fac-4162-ae76-6cfd4a2a5a18.png" alt="Screenshot" width="250">
 
-![download](https://user-images.githubusercontent.com/89703145/230582838-f84c1bea-41b6-4c54-88bf-bf878023aa65.png)
+<img src="https://user-images.githubusercontent.com/89703145/230582838-f84c1bea-41b6-4c54-88bf-bf878023aa65.png" alt="download" width="300">
 
-![download](https://user-images.githubusercontent.com/89703145/230583320-84b3a988-a906-42ed-93b1-4d71bbf35eb2.png)
+<img src="https://user-images.githubusercontent.com/89703145/230583320-84b3a988-a906-42ed-93b1-4d71bbf35eb2.png" alt="download" width="300">
 
-![Screenshot (97)](https://user-images.githubusercontent.com/89703145/230584088-76791c2a-b013-473d-bafe-026164e9f2de.png)
+<img src="https://user-images.githubusercontent.com/89703145/230584088-76791c2a-b013-473d-bafe-026164e9f2de.png" alt="Screenshot" width="200">
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
